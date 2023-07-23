@@ -13,7 +13,7 @@ This Python application allows you to generate random music melodies with a simp
 
 - Choose the `BPM` (Beats Per Minute) for the music generation.
 - Select the root note of the melody (C, C#, D, D#, E, etc.).
-- Choose the music mode to influence the mood of the melody: `major`, `minor`, `phrygian`, `lydian`, `mixolydian`, `dorian`, `locrian`, `blues`, `major pentatonic`, `minor pentatonic`, `harmonic minor`, `melodic minor asc`.
+- Choose the music mode to influence the mood of the melody: `major`, `minor`, `phrygian`, `lydian`, `mixolydian`, `blues` and others.
 - Specify the length of the audio sample in seconds.
 - Multiple note duration options (1/8, 1/4) for more variety in the melody.
 
