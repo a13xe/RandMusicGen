@@ -9,9 +9,9 @@ This Python application allows you to generate random music melodies with a simp
 
 ## 💡 Features
 
-- Choose the BPM (Beats Per Minute) for the music generation.
+- Choose the `BPM` (Beats Per Minute) for the music generation.
 - Select the root note of the melody (C, C#, D, D#, E, etc.).
-- Choose the music mode (major, minor, lydian) to influence the mood of the melody.
+- Choose the music mode to influence the mood of the melody: `major`, `minor`, `phrygian`, `lydian`, `mixolydian` and others.
 - Specify the length of the audio sample in seconds.
 - Multiple note duration options (1/8, 1/4) for more variety in the melody.
 
@@ -33,8 +33,6 @@ git clone https://github.com/AlexeyLepov/RandMusicGen.git
 
 ```bash
 cd RandMusicGen
-```
-```bash
 python main.py
 ```
 
